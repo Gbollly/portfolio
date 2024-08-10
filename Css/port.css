@@ -290,7 +290,8 @@ input, textarea{
     .skills-grid{
         grid-template-areas: 
         "a b c"
-        "d e f";
+        "d e f"
+        "g";
     }
     .project-grid{
         grid-template-areas: 
