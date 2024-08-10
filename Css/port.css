@@ -109,30 +109,34 @@ hr{
     "c"
     "d"
     "e"
-    "f";
+    "f"
+    "g";
     background-color: black;
     background-image: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2rem 12rem 7rem 12rem;
 }
-.html{
+.wordpress{
     grid-area: a;
 }
-.css{
+.html{
     grid-area: b;
 }
-.js{
+.css{
     grid-area: c;
 }
-.access{
+.js{
     grid-area: d;
 }
-.react{
+.access{
     grid-area: e;
 }
-.bootstrap{
+.react{
     grid-area: f;
+}
+.bootstrap{
+    grid-area: g;
 }
 
 .grid-items h2{
